@@ -86,12 +86,13 @@ main .bottom-page .user .prof img{
     height: 40px;
     margin-right: 20px;
 }
-main .bottom-page .user .prof .prof-name h4{
+main .bottom-page .user .prof .prof-name{
     font-weight: 500;
-    margin-bottom: 5px;
 }
 main .bottom-page .user .prof .prof-name span{
     color: hsl(333, 80%, 67%);
+    display: block;
+    margin-top: 5px;
 }
 main .bottom-page .user .text{
     line-height: 1.5;
