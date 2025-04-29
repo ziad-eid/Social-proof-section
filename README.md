@@ -1,4 +1,3 @@
-# Social-proof-section
 # Social Proof Section
 
 A simple and responsive frontend challenge from [Frontend Mentor](https://www.frontendmentor.io/), showcasing social proof and user testimonials.
