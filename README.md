@@ -15,7 +15,7 @@ This project displays a section with user ratings and testimonials to build trus
 
 ## 📸 Screenshot
 
-![Social Proof Section Screenshot](./screenshot.png)
+![Social Proof Section Screenshot](./Screenshot.png)
 
 
 ## 🛠️ Technologies Used
