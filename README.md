@@ -16,7 +16,7 @@ This project displays a section with user ratings and testimonials to build trus
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png) <!-- غير اسم الصورة لو اختلف -->
+![Screenshot](../screenshot.png) <!-- غير اسم الصورة لو اختلف -->
 
 ## 🛠️ Technologies Used
 
@@ -24,6 +24,5 @@ This project displays a section with user ratings and testimonials to build trus
 - CSS3
 - Flexbox & Media Queries
 
-
-
-
+DEMO: 
+https://ziad-eid.github.io/Social-proof-section/
